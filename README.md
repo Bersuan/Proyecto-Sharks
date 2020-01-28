@@ -12,6 +12,6 @@ Me he enfrentado a la limpieza de una base de datos, definiendo desde el proncip
 # 8.- pandas.DataFrame.isin 
 # 9.- pandas.Series.str.contains 
 # 10.- pandas.isnull
-# 11.- re.findall ()
+### 11.- re.findall ()
 
-Con ello he logrado llegar a una conclusión con bajo margen de error.
+Con ello he logrado llegar a una conclusión de la hipotesis propuesta con bajo margen de error.
